@@ -4,4 +4,4 @@
 
 <p>Works well for if you only have the name of a place and no other information. Edit the code to input additional known info, like state, to enhance accuracy.</p>
 
-<p>Requires a Google API key.</p>
+<p>Requires a Google API key. Caches information to reduce request number.</p>
